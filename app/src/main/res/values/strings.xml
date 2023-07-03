@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="failed_loading">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="empty">There are no volumes to display</string>
+
+    <!--  Navigation  -->
+    <string name="nav_home">Home</string>
+    <string name="nav_fav">Favorites</string>
+    <string name="nav_other">Other</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="volume_detail_fragment_label">Volume Detail</string>
+    <string name="volumes_fragment_label">Volumes</string>
+    <string name="favorites_fragment_label">Favorites</string>
+
+    <!-- Volumes -->
+    <string name="volumes_filter">Filter by Favorites</string>
+
+    <!-- Volume Detail -->
+    <string name="volume_detail_title">Title</string>
+    <string name="volume_detail_author_singular">Author</string>
+    <string name="volume_detail_author_plural">Authors</string>
+    <string name="volume_detail_description">Description</string>
+    <string name="volume_detail_buy">BUY</string>
+
+    <!-- Favorites -->
+    <string name="favorites_empty">There is no favorite volumes</string>
+</resources>
